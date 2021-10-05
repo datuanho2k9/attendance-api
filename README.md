@@ -1,7 +1,5 @@
 # Attendance-API
-Simple API to mark students Attendance.
-
-# Attendance-API Simple API to mark students Attendance.\ 
+Simple API to mark students Attendance.\ 
 You need Python, with Flask installed to use this. 
 ## How to run 
 1. `git clone https://github.com/datuanho2k9/attendance-api.git` to clone the repo 2
