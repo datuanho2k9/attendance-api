@@ -46,7 +46,7 @@ All expected responses:
 ```json
 {
     "status": 400, 
-    "message": "Class doesn\'t exist", 
+    "message": "Class doesn't exist", 
     "data": null
 }
 ```
